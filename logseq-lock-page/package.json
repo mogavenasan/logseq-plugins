@@ -1,0 +1,11 @@
+{
+  "name": "logseq-lock-page",
+  "version": "0.0.1",
+  "description": "Ability to lock pages.",
+  "main": "index.html",
+  "author": "mmogavenasan@gmail.com",
+  "license": "MIT",
+  "logseq": {
+    "id": "logseq-lock-page"
+  }
+}
