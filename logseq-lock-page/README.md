@@ -14,7 +14,7 @@
 - Search will still show locked page content.
 
 ### Demo
-![](demo.mov)
+https://user-images.githubusercontent.com/79895534/129451325-5d71a001-5b5a-4cb0-8ffd-b73e24d47e89.mov
 
 ### How to use
 - Add metadata into the page that you want to lock:
@@ -30,4 +30,4 @@ locked:true/false
 ### Future work
 - Explore the limitation and improve the plugin.
 - Add a feature to have password to unlock the page.
-- I'm happy to collab with anyone to enhance this plugin. Feel free to drop a comment on this post; [discuss.logseq]().
+- I'm happy to collab with anyone to enhance this plugin. Feel free to drop a comment on this post; [discuss.logseq](https://discuss.logseq.com/t/plugin-to-lock-pages/2083).
